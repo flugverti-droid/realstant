@@ -1,0 +1,11 @@
+{
+  "id": "bike_11",
+  "name": "Urban S",
+  "type": "motorcycle",
+  "power": 353,
+  "grip": 0.918,
+  "massKg": 149,
+  "topSpeed": 274,
+  "style": "trail",
+  "paintSlots": 4
+}

@@ -1,0 +1,1 @@
+package com.realstant.nativegame; import java.util.*; public final class GarageCatalog { public static List<GarageModel> all(){return Arrays.asList(new GarageModel("vortex",0),new GarageModel("falcon",18000),new GarageModel("terra",24000),new GarageModel("rally",32000));} }

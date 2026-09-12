@@ -1,0 +1,1 @@
+package com.realstant.nativegame; public final class BuildChecklist { public static final String[] ITEMS={"Java only","OpenGL ES 3","Landscape","Touch HUD","Save system","Garage","Weather","Checkpoints","CC0 car asset reference"}; }

@@ -1,0 +1,12 @@
+{
+  "id": 36,
+  "name": "Route 036",
+  "difficulty": 2,
+  "length_m": 3828,
+  "weather": "clear",
+  "traffic": 0,
+  "reward": 5000,
+  "night": true,
+  "environment": "green_valley",
+  "checkpoints": 7
+}

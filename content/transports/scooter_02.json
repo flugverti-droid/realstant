@@ -1,0 +1,19 @@
+{
+  "id": "scooter_02",
+  "name": "Urban Scooter",
+  "type": "scooter",
+  "weightClass": "light",
+  "gameplay": "arcade",
+  "paintSlots": 4,
+  "cameraModes": [
+    "chase",
+    "close",
+    "wide"
+  ],
+  "inputProfiles": [
+    "classic",
+    "large",
+    "left_handed",
+    "custom"
+  ]
+}

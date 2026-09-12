@@ -1,0 +1,12 @@
+{
+  "id": 6,
+  "name": "Route 006",
+  "difficulty": 2,
+  "length_m": 1638,
+  "weather": "snow",
+  "traffic": 2,
+  "reward": 1250,
+  "night": true,
+  "environment": "coastal",
+  "checkpoints": 12
+}

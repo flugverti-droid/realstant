@@ -1,0 +1,9 @@
+{
+  "id": 63,
+  "type": "checkpoint",
+  "map": "autumn_park",
+  "transport": "quad_01",
+  "targetScore": 6800,
+  "fictionalStyleEffects": "air_spin_fx",
+  "real_world_instruction": false
+}

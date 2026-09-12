@@ -1,0 +1,15 @@
+{
+  "id": "car_03",
+  "name": "Rally",
+  "class": "A",
+  "massKg": 1291,
+  "power": 234,
+  "grip": 0.834,
+  "topSpeedKmh": 207,
+  "braking": 0.78,
+  "visual": {
+    "body": "metallic",
+    "paintSlots": 3,
+    "wheelSlots": 2
+  }
+}

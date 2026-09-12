@@ -1,0 +1,11 @@
+{
+  "id": "bike_03",
+  "name": "Pulse 450",
+  "type": "motorcycle",
+  "power": 169,
+  "grip": 0.774,
+  "massKg": 117,
+  "topSpeed": 162,
+  "style": "street",
+  "paintSlots": 4
+}

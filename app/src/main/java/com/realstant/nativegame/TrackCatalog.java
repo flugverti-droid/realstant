@@ -1,0 +1,1 @@
+package com.realstant.nativegame; import java.util.*; public final class TrackCatalog { public static List<Track> all(){return Arrays.asList(new Track("green_valley","Green Valley",4200),new Track("snow_pass","Snow Pass",5600),new Track("night_ring","Night Ring",3900),new Track("coastline","Coastline",6100));} }

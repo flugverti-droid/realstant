@@ -1,0 +1,12 @@
+{
+  "id": 72,
+  "name": "Route 072",
+  "difficulty": 3,
+  "length_m": 6456,
+  "weather": "clear",
+  "traffic": 0,
+  "reward": 9500,
+  "night": true,
+  "environment": "green_valley",
+  "checkpoints": 8
+}

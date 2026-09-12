@@ -1,0 +1,12 @@
+{
+  "id": 83,
+  "name": "Route 083",
+  "difficulty": 4,
+  "length_m": 7259,
+  "weather": "fog",
+  "traffic": 3,
+  "reward": 10875,
+  "night": false,
+  "environment": "mountain",
+  "checkpoints": 12
+}

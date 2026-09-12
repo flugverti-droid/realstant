@@ -1,0 +1,11 @@
+{
+  "id": "bike_01",
+  "name": "Nova 125",
+  "type": "motorcycle",
+  "power": 123,
+  "grip": 0.738,
+  "massKg": 109,
+  "topSpeed": 134,
+  "style": "sport",
+  "paintSlots": 4
+}

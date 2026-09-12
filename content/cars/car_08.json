@@ -1,0 +1,15 @@
+{
+  "id": "car_08",
+  "name": "Touring",
+  "class": "C",
+  "massKg": 1476,
+  "power": 324,
+  "grip": 0.924,
+  "topSpeedKmh": 252,
+  "braking": 0.88,
+  "visual": {
+    "body": "metallic",
+    "paintSlots": 3,
+    "wheelSlots": 2
+  }
+}

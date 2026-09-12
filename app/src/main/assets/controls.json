@@ -1,0 +1,6 @@
+{
+  "steering_sensitivity": 1.35,
+  "button_size": 0.15,
+  "gas_zone": 0.86,
+  "brake_zone": 0.71
+}

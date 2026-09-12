@@ -1,0 +1,8 @@
+{
+  "id": "small_screen",
+  "mode": "BUTTONS",
+  "scale": 0.96,
+  "opacity": 0.6,
+  "leftHanded": false,
+  "vibration": false
+}

@@ -1,0 +1,15 @@
+{
+  "id": "track_03",
+  "name": "Night Circuit",
+  "lengthKm": 4.69,
+  "laps": 2,
+  "surface": "gravel",
+  "traffic": false,
+  "weatherSlots": [
+    "clear",
+    "cloudy",
+    "rain"
+  ],
+  "checkpoints": 11,
+  "spawnSeed": 12213
+}

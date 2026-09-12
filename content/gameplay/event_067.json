@@ -1,0 +1,9 @@
+{
+  "id": 67,
+  "type": "checkpoint",
+  "map": "coastal_drive",
+  "transport": "scooter_02",
+  "targetScore": 7200,
+  "fictionalStyleEffects": "spark_fx",
+  "real_world_instruction": false
+}

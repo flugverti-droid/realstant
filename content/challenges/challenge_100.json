@@ -1,0 +1,6 @@
+{
+  "id": 100,
+  "goal": "score",
+  "target": 8000,
+  "reward": 2100
+}

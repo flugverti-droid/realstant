@@ -1,0 +1,7 @@
+{
+  "id": "perfect_line",
+  "scoreBase": 350,
+  "chainMultiplier": 1.75,
+  "input": "virtual_arcade_action",
+  "safeGameMechanic": true
+}

@@ -1,0 +1,1 @@
+package com.realstant.nativegame; public final class VehicleSpec { public final String id,name; public final VehicleClass type; public final float mass,power,grip,brake; public VehicleSpec(String i,String n,VehicleClass t,float m,float p,float g,float b){id=i;name=n;type=t;mass=m;power=p;grip=g;brake=b;} }

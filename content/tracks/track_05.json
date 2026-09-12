@@ -1,0 +1,15 @@
+{
+  "id": "track_05",
+  "name": "Industrial Loop",
+  "lengthKm": 5.55,
+  "laps": 4,
+  "surface": "snow",
+  "traffic": false,
+  "weatherSlots": [
+    "clear",
+    "cloudy",
+    "rain"
+  ],
+  "checkpoints": 13,
+  "spawnSeed": 12355
+}

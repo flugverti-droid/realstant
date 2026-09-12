@@ -1,0 +1,1 @@
+package com.realstant.nativegame; public final class GameMath { public static float clamp(float v,float a,float b){return Math.max(a,Math.min(b,v));} public static float lerp(float a,float b,float t){return a+(b-a)*t;} public static float smooth(float a,float b,float t){t=t*t*(3-2*t);return lerp(a,b,t);} private GameMath(){} }

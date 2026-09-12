@@ -1,0 +1,12 @@
+{
+  "id": 11,
+  "name": "Route 011",
+  "difficulty": 2,
+  "length_m": 2003,
+  "weather": "fog",
+  "traffic": 3,
+  "reward": 1875,
+  "night": false,
+  "environment": "mountain",
+  "checkpoints": 10
+}

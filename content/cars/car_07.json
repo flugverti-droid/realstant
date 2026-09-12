@@ -1,0 +1,15 @@
+{
+  "id": "car_07",
+  "name": "Sport",
+  "class": "B",
+  "massKg": 1439,
+  "power": 306,
+  "grip": 0.906,
+  "topSpeedKmh": 243,
+  "braking": 0.86,
+  "visual": {
+    "body": "metallic",
+    "paintSlots": 3,
+    "wheelSlots": 2
+  }
+}

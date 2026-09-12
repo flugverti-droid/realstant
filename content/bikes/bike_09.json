@@ -1,0 +1,11 @@
+{
+  "id": "bike_09",
+  "name": "Street R",
+  "type": "motorcycle",
+  "power": 307,
+  "grip": 0.882,
+  "massKg": 141,
+  "topSpeed": 246,
+  "style": "street",
+  "paintSlots": 4
+}

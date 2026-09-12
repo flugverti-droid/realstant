@@ -1,0 +1,15 @@
+{
+  "id": "car_10",
+  "name": "Roadster",
+  "class": "B",
+  "massKg": 1550,
+  "power": 360,
+  "grip": 0.96,
+  "topSpeedKmh": 270,
+  "braking": 0.92,
+  "visual": {
+    "body": "metallic",
+    "paintSlots": 3,
+    "wheelSlots": 2
+  }
+}

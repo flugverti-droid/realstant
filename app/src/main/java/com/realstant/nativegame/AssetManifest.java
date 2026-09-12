@@ -1,0 +1,1 @@
+package com.realstant.nativegame; public final class AssetManifest { public static final String[] FILES={"ToyCar.glb","skybox_night.ktx2","road_albedo.png","road_normal.png","grass_albedo.png","grass_normal.png"}; }

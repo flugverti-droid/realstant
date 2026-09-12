@@ -1,0 +1,1 @@
+package com.realstant.nativegame; public final class FrameLimiter { private long last; public boolean ready(long intervalNs){long n=System.nanoTime();if(n-last>=intervalNs){last=n;return true;}return false;} }

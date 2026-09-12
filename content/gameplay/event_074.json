@@ -1,0 +1,9 @@
+{
+  "id": 74,
+  "type": "score_run",
+  "map": "night_city",
+  "transport": "scooter_01",
+  "targetScore": 7900,
+  "fictionalStyleEffects": "speed_trail_fx",
+  "real_world_instruction": false
+}

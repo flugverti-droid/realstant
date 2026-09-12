@@ -1,0 +1,12 @@
+{
+  "id": 87,
+  "name": "Route 087",
+  "difficulty": 3,
+  "length_m": 7551,
+  "weather": "fog",
+  "traffic": 3,
+  "reward": 11375,
+  "night": true,
+  "environment": "mountain",
+  "checkpoints": 9
+}

@@ -1,0 +1,9 @@
+{
+  "id": 72,
+  "type": "race",
+  "map": "green_valley",
+  "transport": "bmx_01",
+  "targetScore": 7700,
+  "fictionalStyleEffects": "air_spin_fx",
+  "real_world_instruction": false
+}

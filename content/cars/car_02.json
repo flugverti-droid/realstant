@@ -1,0 +1,15 @@
+{
+  "id": "car_02",
+  "name": "Vortex",
+  "class": "C",
+  "massKg": 1254,
+  "power": 216,
+  "grip": 0.816,
+  "topSpeedKmh": 198,
+  "braking": 0.76,
+  "visual": {
+    "body": "metallic",
+    "paintSlots": 3,
+    "wheelSlots": 2
+  }
+}

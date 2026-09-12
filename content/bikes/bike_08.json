@@ -1,0 +1,11 @@
+{
+  "id": "bike_08",
+  "name": "Trail X",
+  "type": "motorcycle",
+  "power": 284,
+  "grip": 0.864,
+  "massKg": 137,
+  "topSpeed": 232,
+  "style": "trail",
+  "paintSlots": 4
+}

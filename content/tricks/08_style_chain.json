@@ -1,0 +1,7 @@
+{
+  "id": "style_chain",
+  "scoreBase": 500,
+  "chainMultiplier": 2.2,
+  "input": "virtual_arcade_action",
+  "safeGameMechanic": true
+}

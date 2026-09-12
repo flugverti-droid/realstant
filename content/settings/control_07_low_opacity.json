@@ -1,0 +1,8 @@
+{
+  "id": "low_opacity",
+  "mode": "BUTTONS",
+  "scale": 0.96,
+  "opacity": 0.9,
+  "leftHanded": false,
+  "vibration": true
+}

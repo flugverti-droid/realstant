@@ -1,0 +1,12 @@
+{
+  "id": 19,
+  "name": "Route 019",
+  "difficulty": 5,
+  "length_m": 2587,
+  "weather": "fog",
+  "traffic": 3,
+  "reward": 2875,
+  "night": false,
+  "environment": "mountain",
+  "checkpoints": 11
+}

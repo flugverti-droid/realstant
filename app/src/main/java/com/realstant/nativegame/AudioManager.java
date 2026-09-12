@@ -1,0 +1,1 @@
+package com.realstant.nativegame; import android.content.*; public final class AudioManager { private boolean enabled=true; public AudioManager(Context c){} public void setEnabled(boolean e){enabled=e;} public boolean enabled(){return enabled;} public void engine(float rpm){} public void click(){} }

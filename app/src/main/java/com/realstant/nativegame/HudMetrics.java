@@ -1,0 +1,1 @@
+package com.realstant.nativegame; public final class HudMetrics { public float left,right,gas,brake,pause; public void update(float w,float h){left=w*.18f;right=w*.32f;gas=w*.86f;brake=w*.71f;pause=w-55;} }

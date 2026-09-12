@@ -1,0 +1,7 @@
+{
+  "id": "air_combo",
+  "scoreBase": 250,
+  "chainMultiplier": 1.45,
+  "input": "virtual_arcade_action",
+  "safeGameMechanic": true
+}

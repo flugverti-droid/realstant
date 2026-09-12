@@ -1,0 +1,1 @@
+package com.realstant.nativegame; public final class GameSettings { public InputProfile input=InputProfile.BUTTONS; public CameraMode camera=CameraMode.CHASE; public GraphicsSettings graphics=new GraphicsSettings(); public boolean vibration=true; }

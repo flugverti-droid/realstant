@@ -1,0 +1,7 @@
+{
+  "quality": "high",
+  "shadows": true,
+  "ssao": true,
+  "bloom": true,
+  "fog": true
+}

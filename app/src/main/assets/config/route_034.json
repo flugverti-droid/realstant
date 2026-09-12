@@ -1,0 +1,12 @@
+{
+  "id": 34,
+  "name": "Route 034",
+  "difficulty": 5,
+  "length_m": 3682,
+  "weather": "snow",
+  "traffic": 2,
+  "reward": 4750,
+  "night": false,
+  "environment": "coastal",
+  "checkpoints": 12
+}

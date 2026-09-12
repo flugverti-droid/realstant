@@ -1,0 +1,19 @@
+{
+  "id": "bike_02",
+  "name": "Trail Bike",
+  "type": "motorcycle",
+  "weightClass": "medium",
+  "gameplay": "arcade",
+  "paintSlots": 4,
+  "cameraModes": [
+    "chase",
+    "close",
+    "wide"
+  ],
+  "inputProfiles": [
+    "classic",
+    "large",
+    "left_handed",
+    "custom"
+  ]
+}

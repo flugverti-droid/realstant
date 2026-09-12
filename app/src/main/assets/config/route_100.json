@@ -1,0 +1,12 @@
+{
+  "id": 100,
+  "name": "Route 100",
+  "difficulty": 1,
+  "length_m": 8500,
+  "weather": "clear",
+  "traffic": 0,
+  "reward": 13000,
+  "night": false,
+  "environment": "green_valley",
+  "checkpoints": 8
+}

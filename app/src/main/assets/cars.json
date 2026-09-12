@@ -1,0 +1,20 @@
+{
+  "vehicles": [
+    {
+      "id": "vortex",
+      "power": 360
+    },
+    {
+      "id": "falcon",
+      "power": 420
+    },
+    {
+      "id": "terra",
+      "power": 300
+    },
+    {
+      "id": "rally",
+      "power": 330
+    }
+  ]
+}

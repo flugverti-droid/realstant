@@ -1,0 +1,19 @@
+{
+  "id": "bmx_01",
+  "name": "BMX",
+  "type": "bicycle",
+  "weightClass": "light",
+  "gameplay": "arcade",
+  "paintSlots": 4,
+  "cameraModes": [
+    "chase",
+    "close",
+    "wide"
+  ],
+  "inputProfiles": [
+    "classic",
+    "large",
+    "left_handed",
+    "custom"
+  ]
+}

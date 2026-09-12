@@ -1,0 +1,12 @@
+{
+  "id": 31,
+  "name": "Route 031",
+  "difficulty": 2,
+  "length_m": 3463,
+  "weather": "fog",
+  "traffic": 3,
+  "reward": 4375,
+  "night": false,
+  "environment": "mountain",
+  "checkpoints": 9
+}

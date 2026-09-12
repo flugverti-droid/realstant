@@ -1,0 +1,193 @@
+{
+  "version": "10.0",
+  "format": "native-android-assets",
+  "models": {
+    "atv": {
+      "path": "models/vehicles/atv.obj",
+      "bytes": 11783
+    },
+    "bmx": {
+      "path": "models/vehicles/bmx.obj",
+      "bytes": 14744
+    },
+    "board": {
+      "path": "models/vehicles/board.obj",
+      "bytes": 10628
+    },
+    "minibike": {
+      "path": "models/vehicles/minibike.obj",
+      "bytes": 14744
+    },
+    "mtb": {
+      "path": "models/vehicles/mtb.obj",
+      "bytes": 15124
+    },
+    "pitbike": {
+      "path": "models/vehicles/pitbike.obj",
+      "bytes": 15132
+    },
+    "scooter": {
+      "path": "models/vehicles/scooter.obj",
+      "bytes": 13022
+    },
+    "park_box": {
+      "path": "models/park/box.obj",
+      "bytes": 692
+    },
+    "park_landing": {
+      "path": "models/park/landing.obj",
+      "bytes": 1044
+    },
+    "park_platform": {
+      "path": "models/park/platform.obj",
+      "bytes": 692
+    },
+    "park_quarter_pipe": {
+      "path": "models/park/quarter_pipe.obj",
+      "bytes": 1044
+    },
+    "park_rail": {
+      "path": "models/park/rail.obj",
+      "bytes": 4891
+    },
+    "park_ramp": {
+      "path": "models/park/ramp.obj",
+      "bytes": 1044
+    },
+    "park_trampoline": {
+      "path": "models/park/trampoline.obj",
+      "bytes": 5727
+    }
+  },
+  "textures": {
+    "asphalt_albedo": {
+      "path": "textures/pbr/asphalt_albedo.png",
+      "bytes": 16899
+    },
+    "asphalt_ao": {
+      "path": "textures/pbr/asphalt_ao.png",
+      "bytes": 370
+    },
+    "asphalt_normal": {
+      "path": "textures/pbr/asphalt_normal.png",
+      "bytes": 564
+    },
+    "asphalt_roughness": {
+      "path": "textures/pbr/asphalt_roughness.png",
+      "bytes": 370
+    },
+    "concrete_albedo": {
+      "path": "textures/pbr/concrete_albedo.png",
+      "bytes": 17435
+    },
+    "concrete_ao": {
+      "path": "textures/pbr/concrete_ao.png",
+      "bytes": 370
+    },
+    "concrete_normal": {
+      "path": "textures/pbr/concrete_normal.png",
+      "bytes": 564
+    },
+    "concrete_roughness": {
+      "path": "textures/pbr/concrete_roughness.png",
+      "bytes": 370
+    },
+    "dirt_albedo": {
+      "path": "textures/pbr/dirt_albedo.png",
+      "bytes": 17026
+    },
+    "dirt_ao": {
+      "path": "textures/pbr/dirt_ao.png",
+      "bytes": 370
+    },
+    "dirt_normal": {
+      "path": "textures/pbr/dirt_normal.png",
+      "bytes": 564
+    },
+    "dirt_roughness": {
+      "path": "textures/pbr/dirt_roughness.png",
+      "bytes": 370
+    },
+    "grass_albedo": {
+      "path": "textures/pbr/grass_albedo.png",
+      "bytes": 16941
+    },
+    "grass_ao": {
+      "path": "textures/pbr/grass_ao.png",
+      "bytes": 370
+    },
+    "grass_normal": {
+      "path": "textures/pbr/grass_normal.png",
+      "bytes": 564
+    },
+    "grass_roughness": {
+      "path": "textures/pbr/grass_roughness.png",
+      "bytes": 370
+    },
+    "metal_albedo": {
+      "path": "textures/pbr/metal_albedo.png",
+      "bytes": 16900
+    },
+    "metal_ao": {
+      "path": "textures/pbr/metal_ao.png",
+      "bytes": 370
+    },
+    "metal_normal": {
+      "path": "textures/pbr/metal_normal.png",
+      "bytes": 564
+    },
+    "metal_roughness": {
+      "path": "textures/pbr/metal_roughness.png",
+      "bytes": 370
+    },
+    "paint_albedo": {
+      "path": "textures/pbr/paint_albedo.png",
+      "bytes": 16723
+    },
+    "paint_ao": {
+      "path": "textures/pbr/paint_ao.png",
+      "bytes": 370
+    },
+    "paint_normal": {
+      "path": "textures/pbr/paint_normal.png",
+      "bytes": 564
+    },
+    "paint_roughness": {
+      "path": "textures/pbr/paint_roughness.png",
+      "bytes": 370
+    },
+    "rubber_albedo": {
+      "path": "textures/pbr/rubber_albedo.png",
+      "bytes": 16723
+    },
+    "rubber_ao": {
+      "path": "textures/pbr/rubber_ao.png",
+      "bytes": 370
+    },
+    "rubber_normal": {
+      "path": "textures/pbr/rubber_normal.png",
+      "bytes": 564
+    },
+    "rubber_roughness": {
+      "path": "textures/pbr/rubber_roughness.png",
+      "bytes": 370
+    },
+    "wood_albedo": {
+      "path": "textures/pbr/wood_albedo.png",
+      "bytes": 17088
+    },
+    "wood_ao": {
+      "path": "textures/pbr/wood_ao.png",
+      "bytes": 370
+    },
+    "wood_normal": {
+      "path": "textures/pbr/wood_normal.png",
+      "bytes": 564
+    },
+    "wood_roughness": {
+      "path": "textures/pbr/wood_roughness.png",
+      "bytes": 370
+    }
+  },
+  "notes": "Original RealStant game meshes plus CC0-compatible source references. No copyrighted game branding/assets included."
+}

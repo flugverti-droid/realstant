@@ -1,0 +1,11 @@
+{
+  "id": "bike_10",
+  "name": "Carbon RS",
+  "type": "motorcycle",
+  "power": 330,
+  "grip": 0.9,
+  "massKg": 145,
+  "topSpeed": 260,
+  "style": "sport",
+  "paintSlots": 4
+}

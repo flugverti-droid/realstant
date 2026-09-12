@@ -1,0 +1,11 @@
+{
+  "screen": 106,
+  "safeArea": true,
+  "landscape": true,
+  "elements": [
+    "title",
+    "primaryAction",
+    "secondaryAction",
+    "back"
+  ]
+}

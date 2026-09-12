@@ -1,0 +1,1 @@
+package com.realstant.nativegame; import java.util.*; public final class WorldSpawner { public List<WorldObject> build(){List<WorldObject> o=new ArrayList<>();for(int i=0;i<120;i++){float z=i*35;float x=(float)Math.sin(i*1.73)*24;o.add(new WorldObject(i%3==0?"tree":"rock",x,0,z));}return o;} }

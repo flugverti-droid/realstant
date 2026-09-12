@@ -1,0 +1,1 @@
+package com.realstant.nativegame; public final class CameraRig { public float x,y,z,yaw,pitch=0.22f; public void follow(PhysicsState s,float dt){float tx=s.x-(float)Math.sin(s.heading)*7f,tz=s.z-(float)Math.cos(s.heading)*7f; x+=(tx-x)*Math.min(1,dt*5);z+=(tz-z)*Math.min(1,dt*5);y+=(3.2f-y)*Math.min(1,dt*4);yaw+=((s.heading-yaw)*Math.min(1,dt*5));} }

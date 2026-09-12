@@ -1,0 +1,1 @@
+package com.realstant.nativegame; public final class BuildInfo { public static final String NAME="RealStant Native"; public static final String VERSION="10.0"; public static final String ENGINE="OpenGL ES 3.0 / Java"; }

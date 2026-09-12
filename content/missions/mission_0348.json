@@ -1,0 +1,10 @@
+{
+  "scenario": 348,
+  "seed": 704524,
+  "track": "track_01",
+  "car": "car_09",
+  "weather": "clear",
+  "difficulty": "easy",
+  "camera": "CHASE",
+  "goal": "complete_clean_run"
+}

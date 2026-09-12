@@ -1,0 +1,10 @@
+{
+  "types": [
+    "clear",
+    "rain",
+    "snow",
+    "fog"
+  ],
+  "wet_grip": 0.82,
+  "snow_grip": 0.58
+}

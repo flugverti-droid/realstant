@@ -1,0 +1,12 @@
+{
+  "id": 48,
+  "name": "Route 048",
+  "difficulty": 4,
+  "length_m": 4704,
+  "weather": "clear",
+  "traffic": 0,
+  "reward": 6500,
+  "night": true,
+  "environment": "green_valley",
+  "checkpoints": 12
+}

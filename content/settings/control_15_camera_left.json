@@ -1,0 +1,8 @@
+{
+  "id": "camera_left",
+  "mode": "BUTTONS",
+  "scale": 0.8,
+  "opacity": 0.9,
+  "leftHanded": true,
+  "vibration": true
+}

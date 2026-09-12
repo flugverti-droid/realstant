@@ -1,0 +1,15 @@
+{
+  "id": "track_07",
+  "name": "Desert Road",
+  "lengthKm": 6.41,
+  "laps": 3,
+  "surface": "gravel",
+  "traffic": false,
+  "weatherSlots": [
+    "clear",
+    "cloudy",
+    "rain"
+  ],
+  "checkpoints": 15,
+  "spawnSeed": 12497
+}

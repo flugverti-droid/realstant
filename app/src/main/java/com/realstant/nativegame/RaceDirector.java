@@ -1,0 +1,1 @@
+package com.realstant.nativegame; public final class RaceDirector { public int score; public void drift(float seconds){score+=(int)(seconds*100);} public void nearMiss(){score+=250;} public void checkpoint(){score+=500;} }

@@ -1,0 +1,1 @@
+package com.realstant.nativegame; import java.util.*; public final class ObjectPool<T> { private final ArrayDeque<T> q=new ArrayDeque<>(); public T take(){return q.poll();} public void put(T x){if(x!=null)q.push(x);} }

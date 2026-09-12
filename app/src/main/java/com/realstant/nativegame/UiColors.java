@@ -1,0 +1,1 @@
+package com.realstant.nativegame; public final class UiColors { public static final int PANEL=0xB51A1D22; public static final int WHITE=0xFFFFFFFF; public static final int ACCENT=0xFF62D5FF; public static final int DANGER=0xFFFF5D6C; private UiColors(){} }

@@ -1,0 +1,1 @@
+package com.realstant.nativegame; import java.util.*; public final class ParticlePool { private final ArrayDeque<Particle> pool=new ArrayDeque<>(); public Particle obtain(){return pool.isEmpty()?new Particle():pool.pop();} public void recycle(Particle p){pool.push(p);} }

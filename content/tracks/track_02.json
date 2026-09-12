@@ -1,0 +1,15 @@
+{
+  "id": "track_02",
+  "name": "Snow Pass",
+  "lengthKm": 4.26,
+  "laps": 4,
+  "surface": "wet",
+  "traffic": true,
+  "weatherSlots": [
+    "clear",
+    "cloudy",
+    "rain"
+  ],
+  "checkpoints": 10,
+  "spawnSeed": 12142
+}

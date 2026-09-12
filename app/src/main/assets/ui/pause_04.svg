@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+<stop stop-color="#ffffff"/><stop offset="1" stop-color="#8aa0b8"/></linearGradient></defs>
+<rect x="6" y="6" width="116" height="116" rx="44" fill="#111821" stroke="#34495e" stroke-width="4"/>
+<circle cx="64" cy="64" r="31" fill="none" stroke="url(#g)" stroke-width="7"/>
+<path d="M42 66 L57 81 L89 43" fill="none" stroke="#fff" stroke-width="8"
+stroke-linecap="round" stroke-linejoin="round"/>
+<text x="64" y="116" text-anchor="middle" font-family="sans-serif" font-size="10"
+fill="#dce7f2">PAUSE</text></svg>

@@ -1,0 +1,15 @@
+{
+  "id": "track_10",
+  "name": "City Lights",
+  "lengthKm": 7.7,
+  "laps": 3,
+  "surface": "wet",
+  "traffic": true,
+  "weatherSlots": [
+    "clear",
+    "cloudy",
+    "rain"
+  ],
+  "checkpoints": 18,
+  "spawnSeed": 12710
+}

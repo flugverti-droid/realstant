@@ -1,0 +1,15 @@
+{
+  "id": "track_11",
+  "name": "Wetlands",
+  "lengthKm": 8.13,
+  "laps": 4,
+  "surface": "gravel",
+  "traffic": false,
+  "weatherSlots": [
+    "clear",
+    "cloudy",
+    "rain"
+  ],
+  "checkpoints": 19,
+  "spawnSeed": 12781
+}

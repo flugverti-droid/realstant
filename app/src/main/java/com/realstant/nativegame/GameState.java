@@ -1,0 +1,1 @@
+package com.realstant.nativegame; public final class GameState { public GameMode mode=GameMode.FREE_RIDE; public String track="green_valley",vehicle="vortex"; public int money=12500; public boolean paused; }

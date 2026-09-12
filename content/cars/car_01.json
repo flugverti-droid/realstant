@@ -1,0 +1,15 @@
+{
+  "id": "car_01",
+  "name": "Falcon",
+  "class": "B",
+  "massKg": 1217,
+  "power": 198,
+  "grip": 0.798,
+  "topSpeedKmh": 189,
+  "braking": 0.74,
+  "visual": {
+    "body": "metallic",
+    "paintSlots": 3,
+    "wheelSlots": 2
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "quad_01",
+  "name": "Mini Quad",
+  "type": "quad",
+  "weightClass": "heavy",
+  "gameplay": "arcade",
+  "paintSlots": 4,
+  "cameraModes": [
+    "chase",
+    "close",
+    "wide"
+  ],
+  "inputProfiles": [
+    "classic",
+    "large",
+    "left_handed",
+    "custom"
+  ]
+}

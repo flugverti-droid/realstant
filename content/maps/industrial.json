@@ -1,0 +1,14 @@
+{
+  "id": "industrial",
+  "name": "Industrial District",
+  "biome": "industrial",
+  "lengthKm": 6.3,
+  "weather": [
+    "clear",
+    "cloudy",
+    "rain"
+  ],
+  "traffic": true,
+  "checkpoints": 12,
+  "dayNight": true
+}

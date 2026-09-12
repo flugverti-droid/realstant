@@ -1,0 +1,12 @@
+{
+  "id": 55,
+  "name": "Route 055",
+  "difficulty": 1,
+  "length_m": 5215,
+  "weather": "fog",
+  "traffic": 3,
+  "reward": 7375,
+  "night": false,
+  "environment": "mountain",
+  "checkpoints": 12
+}

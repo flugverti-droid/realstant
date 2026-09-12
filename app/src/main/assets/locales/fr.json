@@ -1,0 +1,15 @@
+{
+  "start": "START",
+  "garage": "GARAGE",
+  "race": "RACE",
+  "settings": "SETTINGS",
+  "pause": "PAUSE",
+  "resume": "RESUME",
+  "restart": "RESTART",
+  "finish": "FINISH",
+  "upgrade": "UPGRADE",
+  "weather": "WEATHER",
+  "money": "MONEY",
+  "speed": "SPEED",
+  "distance": "DISTANCE"
+}

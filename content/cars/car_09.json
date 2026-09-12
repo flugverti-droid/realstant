@@ -1,0 +1,15 @@
+{
+  "id": "car_09",
+  "name": "DriftArcade",
+  "class": "A",
+  "massKg": 1513,
+  "power": 342,
+  "grip": 0.942,
+  "topSpeedKmh": 261,
+  "braking": 0.9,
+  "visual": {
+    "body": "metallic",
+    "paintSlots": 3,
+    "wheelSlots": 2
+  }
+}

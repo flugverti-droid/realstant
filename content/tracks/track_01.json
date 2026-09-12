@@ -1,0 +1,15 @@
+{
+  "id": "track_01",
+  "name": "Green Valley",
+  "lengthKm": 3.83,
+  "laps": 3,
+  "surface": "snow",
+  "traffic": false,
+  "weatherSlots": [
+    "clear",
+    "cloudy",
+    "rain"
+  ],
+  "checkpoints": 9,
+  "spawnSeed": 12071
+}

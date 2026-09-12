@@ -1,0 +1,9 @@
+{
+  "id": 21,
+  "type": "time_trial",
+  "map": "industrial",
+  "transport": "bike_02",
+  "targetScore": 2600,
+  "fictionalStyleEffects": "air_spin_fx",
+  "real_world_instruction": false
+}

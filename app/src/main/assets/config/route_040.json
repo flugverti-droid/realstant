@@ -1,0 +1,12 @@
+{
+  "id": 40,
+  "name": "Route 040",
+  "difficulty": 1,
+  "length_m": 4120,
+  "weather": "clear",
+  "traffic": 0,
+  "reward": 5500,
+  "night": false,
+  "environment": "green_valley",
+  "checkpoints": 11
+}

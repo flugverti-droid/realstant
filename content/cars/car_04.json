@@ -1,0 +1,15 @@
+{
+  "id": "car_04",
+  "name": "GT",
+  "class": "B",
+  "massKg": 1328,
+  "power": 252,
+  "grip": 0.852,
+  "topSpeedKmh": 216,
+  "braking": 0.8,
+  "visual": {
+    "body": "metallic",
+    "paintSlots": 3,
+    "wheelSlots": 2
+  }
+}

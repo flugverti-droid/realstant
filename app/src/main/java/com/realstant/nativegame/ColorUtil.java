@@ -1,0 +1,1 @@
+package com.realstant.nativegame; public final class ColorUtil { public static float srgb(float v){return (float)Math.pow(v,2.2);} public static float linear(float v){return (float)Math.pow(v,1/2.2);} }

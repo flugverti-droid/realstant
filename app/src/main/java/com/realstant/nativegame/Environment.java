@@ -1,0 +1,1 @@
+package com.realstant.nativegame; public final class Environment { public float timeOfDay=12; public WeatherType weather=WeatherType.CLEAR; public void advance(float dt){timeOfDay=(timeOfDay+dt*.03f)%24;} }

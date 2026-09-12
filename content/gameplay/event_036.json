@@ -1,0 +1,9 @@
+{
+  "id": 36,
+  "type": "race",
+  "map": "desert_run",
+  "transport": "bike_01",
+  "targetScore": 4100,
+  "fictionalStyleEffects": "air_spin_fx",
+  "real_world_instruction": false
+}

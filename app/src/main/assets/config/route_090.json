@@ -1,0 +1,12 @@
+{
+  "id": 90,
+  "name": "Route 090",
+  "difficulty": 1,
+  "length_m": 7770,
+  "weather": "snow",
+  "traffic": 2,
+  "reward": 11750,
+  "night": true,
+  "environment": "coastal",
+  "checkpoints": 12
+}

@@ -1,0 +1,12 @@
+{
+  "id": 18,
+  "name": "Route 018",
+  "difficulty": 4,
+  "length_m": 2514,
+  "weather": "snow",
+  "traffic": 2,
+  "reward": 2750,
+  "night": true,
+  "environment": "coastal",
+  "checkpoints": 10
+}

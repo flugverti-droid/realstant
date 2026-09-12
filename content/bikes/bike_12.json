@@ -1,0 +1,11 @@
+{
+  "id": "bike_12",
+  "name": "Track Pro",
+  "type": "motorcycle",
+  "power": 376,
+  "grip": 0.936,
+  "massKg": 153,
+  "topSpeed": 288,
+  "style": "street",
+  "paintSlots": 4
+}

@@ -1,0 +1,11 @@
+{
+  "id": "bike_05",
+  "name": "Apex 800",
+  "type": "motorcycle",
+  "power": 215,
+  "grip": 0.81,
+  "massKg": 125,
+  "topSpeed": 190,
+  "style": "trail",
+  "paintSlots": 4
+}

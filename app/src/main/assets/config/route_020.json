@@ -1,0 +1,12 @@
+{
+  "id": 20,
+  "name": "Route 020",
+  "difficulty": 1,
+  "length_m": 2660,
+  "weather": "clear",
+  "traffic": 0,
+  "reward": 3000,
+  "night": false,
+  "environment": "green_valley",
+  "checkpoints": 12
+}

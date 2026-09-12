@@ -1,0 +1,1 @@
+package com.realstant.nativegame; public final class DamageModel { public float body,glass,wheels; public void hit(float amount){body=Math.min(1,body+amount);wheels=Math.min(1,wheels+amount*.5f);} public boolean totaled(){return body>=1;} }

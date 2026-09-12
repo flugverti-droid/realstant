@@ -1,0 +1,11 @@
+{
+  "id": "bike_07",
+  "name": "Storm 1000",
+  "type": "motorcycle",
+  "power": 261,
+  "grip": 0.846,
+  "massKg": 133,
+  "topSpeed": 218,
+  "style": "sport",
+  "paintSlots": 4
+}

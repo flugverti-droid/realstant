@@ -1,0 +1,1 @@
+package com.realstant.nativegame; import java.util.*; public final class UpgradeSystem { private final EnumMap<Upgrade,Integer> lv=new EnumMap<>(Upgrade.class); public UpgradeSystem(){for(Upgrade u:Upgrade.values())lv.put(u,0);} public int level(Upgrade u){return lv.get(u);} public void upgrade(Upgrade u){lv.put(u,Math.min(5,lv.get(u)+1));} }

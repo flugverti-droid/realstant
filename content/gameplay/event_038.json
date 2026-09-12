@@ -1,0 +1,9 @@
+{
+  "id": 38,
+  "type": "score_run",
+  "map": "highland",
+  "transport": "bike_03",
+  "targetScore": 4300,
+  "fictionalStyleEffects": "speed_trail_fx",
+  "real_world_instruction": false
+}

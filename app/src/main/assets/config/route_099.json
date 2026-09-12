@@ -1,0 +1,12 @@
+{
+  "id": 99,
+  "name": "Route 099",
+  "difficulty": 5,
+  "length_m": 8427,
+  "weather": "fog",
+  "traffic": 3,
+  "reward": 12875,
+  "night": true,
+  "environment": "mountain",
+  "checkpoints": 7
+}

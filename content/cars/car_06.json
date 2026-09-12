@@ -1,0 +1,15 @@
+{
+  "id": "car_06",
+  "name": "Classic",
+  "class": "A",
+  "massKg": 1402,
+  "power": 288,
+  "grip": 0.888,
+  "topSpeedKmh": 234,
+  "braking": 0.84,
+  "visual": {
+    "body": "metallic",
+    "paintSlots": 3,
+    "wheelSlots": 2
+  }
+}

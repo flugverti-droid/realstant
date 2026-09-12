@@ -1,0 +1,15 @@
+{
+  "id": "track_06",
+  "name": "Forest Ring",
+  "lengthKm": 5.98,
+  "laps": 2,
+  "surface": "wet",
+  "traffic": true,
+  "weatherSlots": [
+    "clear",
+    "cloudy",
+    "rain"
+  ],
+  "checkpoints": 14,
+  "spawnSeed": 12426
+}

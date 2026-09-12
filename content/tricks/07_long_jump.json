@@ -1,0 +1,7 @@
+{
+  "id": "long_jump",
+  "scoreBase": 450,
+  "chainMultiplier": 2.05,
+  "input": "virtual_arcade_action",
+  "safeGameMechanic": true
+}

@@ -1,0 +1,12 @@
+{
+  "id": 82,
+  "name": "Route 082",
+  "difficulty": 3,
+  "length_m": 7186,
+  "weather": "snow",
+  "traffic": 2,
+  "reward": 10750,
+  "night": false,
+  "environment": "coastal",
+  "checkpoints": 11
+}

@@ -1,0 +1,7 @@
+{
+  "id": "spin",
+  "scoreBase": 150,
+  "chainMultiplier": 1.15,
+  "input": "virtual_arcade_action",
+  "safeGameMechanic": true
+}

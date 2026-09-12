@@ -1,0 +1,7 @@
+{
+  "version": 10,
+  "title": "RealStant",
+  "engine": "Java/OpenGL ES 3.0",
+  "landscape": true,
+  "max_fps": 60
+}

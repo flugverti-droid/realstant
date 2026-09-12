@@ -1,0 +1,11 @@
+{
+  "id": "bike_06",
+  "name": "Ridge 900",
+  "type": "motorcycle",
+  "power": 238,
+  "grip": 0.828,
+  "massKg": 129,
+  "topSpeed": 204,
+  "style": "street",
+  "paintSlots": 4
+}

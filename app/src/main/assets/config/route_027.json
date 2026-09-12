@@ -1,0 +1,12 @@
+{
+  "id": 27,
+  "name": "Route 027",
+  "difficulty": 3,
+  "length_m": 3171,
+  "weather": "fog",
+  "traffic": 3,
+  "reward": 3875,
+  "night": true,
+  "environment": "mountain",
+  "checkpoints": 12
+}

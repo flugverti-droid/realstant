@@ -1,0 +1,11 @@
+{
+  "id": "bike_02",
+  "name": "Razor 250",
+  "type": "motorcycle",
+  "power": 146,
+  "grip": 0.756,
+  "massKg": 113,
+  "topSpeed": 148,
+  "style": "trail",
+  "paintSlots": 4
+}

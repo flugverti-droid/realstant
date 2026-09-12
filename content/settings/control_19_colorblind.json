@@ -1,0 +1,8 @@
+{
+  "id": "colorblind",
+  "mode": "BUTTONS",
+  "scale": 1.12,
+  "opacity": 0.9,
+  "leftHanded": false,
+  "vibration": true
+}

@@ -1,0 +1,15 @@
+{
+  "id": "track_04",
+  "name": "Coastal Run",
+  "lengthKm": 5.12,
+  "laps": 3,
+  "surface": "asphalt",
+  "traffic": true,
+  "weatherSlots": [
+    "clear",
+    "cloudy",
+    "rain"
+  ],
+  "checkpoints": 12,
+  "spawnSeed": 12284
+}

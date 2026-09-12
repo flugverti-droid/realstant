@@ -1,0 +1,15 @@
+{
+  "id": "track_09",
+  "name": "Autumn Ridge",
+  "lengthKm": 7.27,
+  "laps": 2,
+  "surface": "snow",
+  "traffic": false,
+  "weatherSlots": [
+    "clear",
+    "cloudy",
+    "rain"
+  ],
+  "checkpoints": 17,
+  "spawnSeed": 12639
+}

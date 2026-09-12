@@ -1,0 +1,8 @@
+{
+  "id": "night",
+  "mode": "BUTTONS",
+  "scale": 1.04,
+  "opacity": 0.8,
+  "leftHanded": false,
+  "vibration": false
+}

@@ -1,0 +1,8 @@
+{
+  "id": "classic",
+  "mode": "BUTTONS",
+  "scale": 0.88,
+  "opacity": 0.7,
+  "leftHanded": false,
+  "vibration": true
+}

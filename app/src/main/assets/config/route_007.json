@@ -1,0 +1,12 @@
+{
+  "id": 7,
+  "name": "Route 007",
+  "difficulty": 3,
+  "length_m": 1711,
+  "weather": "fog",
+  "traffic": 3,
+  "reward": 1375,
+  "night": false,
+  "environment": "mountain",
+  "checkpoints": 6
+}

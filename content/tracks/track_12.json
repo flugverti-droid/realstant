@@ -1,0 +1,15 @@
+{
+  "id": "track_12",
+  "name": "Highland",
+  "lengthKm": 8.56,
+  "laps": 2,
+  "surface": "asphalt",
+  "traffic": true,
+  "weatherSlots": [
+    "clear",
+    "cloudy",
+    "rain"
+  ],
+  "checkpoints": 20,
+  "spawnSeed": 12852
+}

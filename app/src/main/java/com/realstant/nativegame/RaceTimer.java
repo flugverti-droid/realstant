@@ -1,0 +1,1 @@
+package com.realstant.nativegame; public final class RaceTimer { private long start; private boolean running; public void start(){start=System.nanoTime();running=true;} public void stop(){running=false;} public float seconds(){return running?(System.nanoTime()-start)/1_000_000_000f:0f;} }

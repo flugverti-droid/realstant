@@ -1,0 +1,7 @@
+{
+  "id": "near_gate",
+  "scoreBase": 400,
+  "chainMultiplier": 1.9,
+  "input": "virtual_arcade_action",
+  "safeGameMechanic": true
+}

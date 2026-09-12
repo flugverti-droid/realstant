@@ -1,0 +1,9 @@
+{
+  "id": 41,
+  "type": "time_trial",
+  "map": "snow_pass",
+  "transport": "bmx_02",
+  "targetScore": 4600,
+  "fictionalStyleEffects": "speed_trail_fx",
+  "real_world_instruction": false
+}

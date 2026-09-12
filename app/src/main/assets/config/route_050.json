@@ -1,0 +1,12 @@
+{
+  "id": 50,
+  "name": "Route 050",
+  "difficulty": 1,
+  "length_m": 4850,
+  "weather": "snow",
+  "traffic": 2,
+  "reward": 6750,
+  "night": false,
+  "environment": "coastal",
+  "checkpoints": 7
+}

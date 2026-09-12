@@ -1,0 +1,1 @@
+package com.realstant.nativegame; public final class PerformanceMonitor { private long frames,last; public float fps; public void frame(){frames++;long n=System.nanoTime();if(last!=0&&(n-last)>1_000_000_000L){fps=frames*1_000_000_000f/(n-last);frames=0;last=n;}else if(last==0)last=n;} }

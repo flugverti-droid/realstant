@@ -1,0 +1,15 @@
+{
+  "id": "track_08",
+  "name": "Mountain Route",
+  "lengthKm": 6.84,
+  "laps": 4,
+  "surface": "asphalt",
+  "traffic": true,
+  "weatherSlots": [
+    "clear",
+    "cloudy",
+    "rain"
+  ],
+  "checkpoints": 16,
+  "spawnSeed": 12568
+}

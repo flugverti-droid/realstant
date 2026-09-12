@@ -1,0 +1,1 @@
+package com.realstant.nativegame; import java.util.*; public final class AchievementCatalog { public static List<Achievement> all(){return Arrays.asList(new Achievement("first","Первый заезд"),new Achievement("fast","Скорость 200"),new Achievement("snow","Snow Pass"),new Achievement("collector","4 машины"));} }

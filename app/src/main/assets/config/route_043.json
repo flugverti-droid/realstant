@@ -1,0 +1,12 @@
+{
+  "id": 43,
+  "name": "Route 043",
+  "difficulty": 4,
+  "length_m": 4339,
+  "weather": "fog",
+  "traffic": 3,
+  "reward": 5875,
+  "night": false,
+  "environment": "mountain",
+  "checkpoints": 7
+}

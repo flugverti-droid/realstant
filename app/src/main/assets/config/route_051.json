@@ -1,0 +1,12 @@
+{
+  "id": 51,
+  "name": "Route 051",
+  "difficulty": 2,
+  "length_m": 4923,
+  "weather": "fog",
+  "traffic": 3,
+  "reward": 6875,
+  "night": true,
+  "environment": "mountain",
+  "checkpoints": 8
+}

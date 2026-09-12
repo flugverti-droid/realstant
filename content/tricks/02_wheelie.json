@@ -1,0 +1,7 @@
+{
+  "id": "wheelie",
+  "scoreBase": 200,
+  "chainMultiplier": 1.3,
+  "input": "virtual_arcade_action",
+  "safeGameMechanic": true
+}

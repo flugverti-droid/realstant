@@ -1,0 +1,1 @@
+package com.realstant.nativegame; public final class OnlineDesignerInfo { public static final String SOURCE="Khronos glTF Sample Assets / Toy Car"; public static final String LICENSE="CC0 1.0 Universal"; public static final String FORMAT="GLB / glTF 2.0"; }

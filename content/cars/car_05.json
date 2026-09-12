@@ -1,0 +1,15 @@
+{
+  "id": "car_05",
+  "name": "Street",
+  "class": "C",
+  "massKg": 1365,
+  "power": 270,
+  "grip": 0.87,
+  "topSpeedKmh": 225,
+  "braking": 0.82,
+  "visual": {
+    "body": "metallic",
+    "paintSlots": 3,
+    "wheelSlots": 2
+  }
+}

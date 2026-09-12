@@ -1,0 +1,11 @@
+{
+  "id": "bike_04",
+  "name": "Volt 650",
+  "type": "motorcycle",
+  "power": 192,
+  "grip": 0.792,
+  "massKg": 121,
+  "topSpeed": 176,
+  "style": "sport",
+  "paintSlots": 4
+}

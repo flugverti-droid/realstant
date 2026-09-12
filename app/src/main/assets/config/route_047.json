@@ -1,0 +1,12 @@
+{
+  "id": 47,
+  "name": "Route 047",
+  "difficulty": 3,
+  "length_m": 4631,
+  "weather": "fog",
+  "traffic": 3,
+  "reward": 6375,
+  "night": false,
+  "environment": "mountain",
+  "checkpoints": 11
+}

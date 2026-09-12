@@ -1,0 +1,7 @@
+{
+  "id": "clean_landing",
+  "scoreBase": 300,
+  "chainMultiplier": 1.6,
+  "input": "virtual_arcade_action",
+  "safeGameMechanic": true
+}

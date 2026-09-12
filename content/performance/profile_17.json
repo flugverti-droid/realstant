@@ -1,0 +1,8 @@
+{
+  "profile": 17,
+  "renderScale": 0.9,
+  "shadows": true,
+  "particles": true,
+  "fog": true,
+  "fps": 60
+}

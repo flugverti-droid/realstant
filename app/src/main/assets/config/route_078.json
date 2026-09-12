@@ -1,0 +1,12 @@
+{
+  "id": 78,
+  "name": "Route 078",
+  "difficulty": 4,
+  "length_m": 6894,
+  "weather": "snow",
+  "traffic": 2,
+  "reward": 10250,
+  "night": true,
+  "environment": "coastal",
+  "checkpoints": 7
+}

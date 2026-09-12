@@ -1,0 +1,1 @@
+package com.realstant.nativegame; import java.util.*; public final class RoadBuilder { public List<RoadSegment> build(int n){List<RoadSegment> a=new ArrayList<>();for(int i=0;i<n;i++){RoadSegment r=new RoadSegment(i*40);r.curve=(float)Math.sin(i*.23)*.02f;a.add(r);}return a;} }

@@ -1,0 +1,12 @@
+{
+  "id": 13,
+  "name": "Route 013",
+  "difficulty": 4,
+  "length_m": 2149,
+  "weather": "rain",
+  "traffic": 1,
+  "reward": 2125,
+  "night": false,
+  "environment": "snow_pass",
+  "checkpoints": 12
+}
